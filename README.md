@@ -8,3 +8,4 @@ Android Application for File transfer
 	- .docx
 	- .doc
 	- .clv
+	-.slask
